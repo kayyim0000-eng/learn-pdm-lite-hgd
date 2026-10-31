@@ -8,3 +8,5 @@
 | 4 실습 MVP | 승인 ② — 수치 8/8 일치, 렌더 콘솔 오류 0 | 2026-10-31 |
 | 5 학습자 자료 | 완료 — GUIDE.md (10분 실습판이라 매뉴얼 덱은 생략) | 2026-10-31 |
 | 6 배포 | 승인 ③ 공개(public) | 2026-10-31 |
+| 6 배포 결과 | 저장소 https://github.com/kayyim0000-eng/learn-pdm-lite-hgd · 사이트 https://kayyim0000-eng.github.io/learn-pdm-lite-hgd/ · zip ../learn-pdm-lite-hgd.zip | 2026-10-31 |
+| 7 배우기·공유 | 대기 — 새 세션에서 /learn-pdm-lite-hgd 수강 | |
